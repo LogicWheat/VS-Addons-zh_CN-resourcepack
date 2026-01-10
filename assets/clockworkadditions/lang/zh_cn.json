@@ -1,0 +1,27 @@
+{
+  "itemGroup.clockworkadditions": "Clocwork：更多物品",
+  
+  "block.clockworkadditions.handlebar": "把手",
+  "block.clockworkadditions.mechanical_pedals": "脚踏车",
+  "block.clockworkadditions.kinetic_flap_bearing": "定向襟翼轴承",
+  "block.clockworkadditions.copycat_wing": "伪装机翼",
+  "block.clockworkadditions.copycat_flap": "伪装襟翼",
+  "block.clockworkadditions.cv_joint": "等速万向节",
+  "block.clockworkadditions.inverted_redstone_resistor": "反向红石阻尼器",
+  "block.clockworkadditions.base_physics_bearing": "基础物理轴承",
+  "block.clockworkadditions.heli_physics_bearing": "直升机物理轴承",
+  "block.clockworkadditions.redstone_gyro": "红石陀螺仪",
+  "block.clockworkadditions.extensible_hose": "可伸缩软管",
+  "block.clockworkadditions.aesthetic_bearing": "美学物理轴承",
+  
+  "create.contraptions.kinetic_flap_bearing.normal": "红石信号输入时，轴承回正",
+  "create.contraptions.kinetic_flap_bearing.inverted": "红石信号输入时，轴承偏转",
+  "create.redstone.gyro.unpowered": "所有方向都不会输出红石信号",
+  "create.redstone.gyro.tilt": "红石信号输出取决于倾斜程度",
+  "create.redstone.gyro.omega": "红石信号输出取决于角速度大小",
+  "create.redstone.gyro.both": "红石信号输出同时取决于倾斜程度和角速度大小",
+  "create.redstone.gyro.pid": "红石信号输出取决于 PID",
+  "create.redstone.gyro.powered": "所有方向都永久输出红石信号",
+  "contraptions.kinetic_flap_bearing.redstone_input_mode": "红石信号输入模式",
+  "circuits.gyro.output_mode": "红石信号输出模式"
+}

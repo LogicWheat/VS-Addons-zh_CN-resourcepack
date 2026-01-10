@@ -1,0 +1,13 @@
+{
+  "itemGroup.vsafe.tab": "瓦尔基里：安然无恙",
+
+  "item.vsafe.crash_it": "崩溃！",
+
+  "title.vsafe.config": "瓦尔基里：安然无恙配置",
+
+  "option.vsafe.safe_phys_thread_on": "开启瓦尔基里安全物理线程",
+  "tooltip.vsafe.safe_phys_thread_on": "是否开启安全物理线程\n需要重启以完全生效",
+
+  "option.vsafe.debug_mode": "Debug Mode",
+  "tooltip.vsafe.debug_mode": "决定着物理线程内捕获到的异常的可见性，默认为OnlyInLogST\n    Silent:无任何Debug信息\n    OnlyInLog:异常简要信息输出到日志\n    OnlyInLogST:异常全栈信息输出到日志\n    DisplayInGame:异常简要信息输出到日志和游戏聊天栏\n    DisplayInGameST:简要信息输出到聊天栏, 全栈信息输出到日志"
+}

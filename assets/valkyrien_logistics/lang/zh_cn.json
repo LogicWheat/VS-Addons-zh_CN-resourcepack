@@ -1,0 +1,19 @@
+{
+  "itemGroup.valkyrien_logistics": "瓦尔基里：逻辑仪表",
+
+  "vector_gauge.x": "X值",
+  "vector_gauge.y": "Y值",
+  "vector_gauge.z": "Z值",
+  "vector_gauge.w": "W值",
+  "create.logistics.vector_panel": "选择输出值",
+  "create.logistics.vector_panel.string": "%d，%d，%d",
+  "create.logistics.quaternion_panel.string": "%d，%d，%d，%d",
+
+  "item.valkyrien_logistics.position_gauge": "位置仪表",
+  "item.valkyrien_logistics.linear_velocity_gauge": "线速度仪表",
+  "item.valkyrien_logistics.angular_velocity_gauge": "角速度仪表",
+  "item.valkyrien_logistics.rotation_gauge": "旋转仪表",
+  "item.valkyrien_logistics.mass_gauge": "质量仪表",
+  "item.valkyrien_logistics.slug_gauge": "标识符仪表",
+  "item.valkyrien_logistics.euler_gauge": "欧拉角仪表"
+}
