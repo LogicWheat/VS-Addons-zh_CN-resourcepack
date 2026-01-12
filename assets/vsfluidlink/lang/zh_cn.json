@@ -1,0 +1,19 @@
+{
+  "block.vsfluidlink.hose_connector": "流体软管连接器",
+  "item.vsfluidlink.hose_connector.tooltip": "让物理结构间的流体传输变得更加简单。\n使用扳手右击以选择第一个连接点，\n然后，右击另一个连接器以建立连接。",
+  "block.vsfluidlink.magnet_hose_connector": "自吸式流体软管连接器",
+  "item.vsfluidlink.magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式连接器。\n通入红石信号可禁用连接。",
+  "block.vsfluidlink.item_hose_connector": "物品软管连接器",
+  "item.vsfluidlink.item_hose_connector.tooltip": "让物理结构间的物品传输变得更加简单。\n使用扳手右击以选择第一个连接点，\n然后，右击另一个连接器以建立连接。\n通入32 RPM以上的旋转力以使其工作。",
+  "block.vsfluidlink.item_magnet_hose_connector": "自吸式物品软管连接器",
+  "item.vsfluidlink.item_magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式连接器。\n通入红石信号可禁用连接。\n通入32 RPM以上的旋转力以使其工作",
+
+  "creativetab.vsfluidlink_tab": "瓦尔基里天空：软管连接器",
+
+  "vsfluidlink.message.selection_cleared": "已清除选择",
+  "vsfluidlink.message.first_pos_selected": "已选择第一个位置：%s",
+  "vsfluidlink.message.cannot_link_to_self": "无法连接到自身",
+  "vsfluidlink.message.distance_too_far": "距离过远（>10格）",
+  "vsfluidlink.message.linked_successfully": "连接成功！",
+  "vsfluidlink.message.link_disconnected": "连接已断开"
+}

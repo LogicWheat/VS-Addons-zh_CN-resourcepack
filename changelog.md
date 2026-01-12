@@ -1,3 +1,14 @@
+# 2.4.6
+- 更新翻译文件
+  - 瓦尔基里天空 Valkyrien Skies
+    - 版本：2.4.7
+  - Clockwork
+    - 版本：0.5.4.4
+<br>
+- 新增翻译文件
+  - 瓦尔基里天空：软管连接器 VS Hose Connectors
+    - 版本：0.0.1
+
 # 2.4.5
 - 删除翻译文件
   - AE2 无线终端 Applied Energistics 2 Wireless Terminals

@@ -136,10 +136,13 @@
   "vs_clockwork.logistics.filter.click_to_set": "手持物品点击以设置。",
 
   "vs_clockwork.contraptions.propeller.rotation_direction": "旋转方向",
+  "vs_clockwork.contraptions.resistor.resist_direction": "阻尼器阻抗方向",
   "contraptions.propeller.controller_wrong_way": "螺旋桨控制器朝向错误",
   "contraptions.propeller.not_prop": "这不是一个螺旋桨",
   "propeller.rotation_direction.normal": "正向",
   "propeller.rotation_direction.inverted": "反向",
+  "resistor.resist_direction.none_to_max": "从小到大",
+  "resistor.resist_direction.max_to_none": "从大到小",
 
   "vs_clockwork.command.get_air_values": "处于 y：%d；密度：%d；温度：%d",
 
@@ -476,7 +479,7 @@
   "vs_clockwork.ponder.alt_meter.text_3": "超过该高度时，信号会继续输出",
   "vs_clockwork.ponder.alt_meter.text_4": "你也可以配置灵敏度，即信号开始输出的范围",
   "vs_clockwork.ponder.alt_meter.text_5": "信号强度会随着接近目标高度而增加",
-  "vs_clockwork.ponder.alt_meter.text_6": "方向设置允许你配置高度计输出信号的面",
+  "vs_clockwork.ponder.alt_meter.text_6": "方向设置允许你配置高度计从哪个方向接近目标高度时输出信号",
   "vs_clockwork.ponder.alt_meter.text_7": "可选设置包括：向上、向下与双向",
   "vs_clockwork.ponder.alt_meter.text_8": "向上模式：使高度计从下方接近目标高度时输出信号",
   "vs_clockwork.ponder.alt_meter.text_9": "向下模式：使高度计从上方接近目标高度时输出信号",
