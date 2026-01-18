@@ -17,7 +17,7 @@
   "item.beyond_oxygen.canned_apple": "罐装苹果",
   "item.beyond_oxygen.canned_beef": "罐装牛排",
   "item.beyond_oxygen.canned_pork": "罐装猪排",
-  "message.vent.oxygen_flow": "氧气流速：%.2f 毫桶/刻",
+  "message.vent.oxygen_flow": "氧气流速：%.2f mB/t",
   "message.vent.not_sealed": "区域未密封！",
   "message.helmet.status": "头盔状态：%s",
   "message.helmet.closed": "已关闭",
@@ -52,7 +52,7 @@
   "block.beyond_oxygen.oxygen_harvester": "氧气收集器",
   "message.cryo_bed.reassigned": "低温休眠舱已重新分配",
   "message.cryo_bed.already_assigned": "这已是您分配的低温休眠舱",
-  "death.attack.beyond_oxygen.vacuum": "%1$s 未能通过真空舱测试",
-  "death.attack.beyond_oxygen.freeze": "%1$s 被冻干了",
-  "death.attack.beyond_oxygen.burn": "嗯…闻到了吗？没有什么比清晨新鲜烘烤的 %1$s 更香了！"
+  "death.attack.beyond_oxygen.vacuum": "%1$s未能通过真空舱测试",
+  "death.attack.beyond_oxygen.freeze": "%1$s被冻干了",
+  "death.attack.beyond_oxygen.burn": "嗯……闻到了吗？没有什么比清晨新鲜烘烤的%1$s更香了！"
 }

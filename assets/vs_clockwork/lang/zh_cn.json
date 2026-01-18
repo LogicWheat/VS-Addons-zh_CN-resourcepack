@@ -62,7 +62,7 @@
   "block.vs_clockwork.asteroid_block": "调试陨石生成器",
   "item.vs_clockwork.asteroid_block": "调试陨石生成器",
 
-  "item.vs_clockwork.music_disc_wanderlust": "修复了的音乐唱片",
+  "item.vs_clockwork.music_disc_wanderlust": "修复的音乐唱片",
   "item.vs_clockwork.music_disc_wanderlust.desc": "Tomato - wanderlust",
   "item.vs_clockwork.music_disc_wanderlust.lore1": "你使用了其他位面的材料修复了这张唱片。",
   "item.vs_clockwork.music_disc_wanderlust.lore2": "它再次完整了，但感觉有些地方……不一样了。",
@@ -144,7 +144,7 @@
   "resistor.resist_direction.none_to_max": "从小到大",
   "resistor.resist_direction.max_to_none": "从大到小",
 
-  "vs_clockwork.command.get_air_values": "处于 y：%d；密度：%d；温度：%d",
+  "vs_clockwork.command.get_air_values": "在y轴高度 %d 处，密度为 %d，温度为 %d",
 
   "vs_clockwork.subtitle.gravitron_start": "重力枪：启动",
   "vs_clockwork.subtitle.gravitron_grab": "重力枪：抓取物理结构",
@@ -153,8 +153,8 @@
   "vs_clockwork.subtitle.gravitron_shutdown": "重力枪：关闭",
   "vs_clockwork.subtitle.gravitron_freeze": "创造模式重力枪：冻结物理结构",
 
-  "vs_clockwork.subtitle.gas_nozzle_start": "气体喷嘴：开启",
-  "vs_clockwork.subtitle.gas_nozzle_loop": "气体喷嘴：喷气",
+  "vs_clockwork.subtitle.gas_nozzle_start": "气体喷口：开启",
+  "vs_clockwork.subtitle.gas_nozzle_loop": "气体喷口：喷气",
   "vs_clockwork.subtitle.balloon_leaking_light": "热气球：缓慢漏气",
   "vs_clockwork.subtitle.balloon_leaking_heavy": "热气球：快速漏气",
   "vs_clockwork.subtitle.balloon_rupture": "热气球：破裂",
@@ -250,8 +250,8 @@
   "item.vs_clockwork.pump_duct": "气泵",
   "block.vs_clockwork.valve_duct": "气体阀门",
   "item.vs_clockwork.valve_duct": "气体阀门",
-  "block.vs_clockwork.gas_nozzle": "气体喷嘴",
-  "item.vs_clockwork.gas_nozzle": "气体喷嘴",
+  "block.vs_clockwork.gas_nozzle": "气体喷口",
+  "item.vs_clockwork.gas_nozzle": "气体喷口",
   "block.vs_clockwork.gas_vent": "气体通风口",
   "item.vs_clockwork.gas_vent": "气体通风口",
   "block.vs_clockwork.sealer": "便携式密封器",

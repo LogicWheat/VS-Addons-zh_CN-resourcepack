@@ -1,3 +1,12 @@
+# 2.4.7
+- 更新翻译文件
+  - 瓦尔基里天空 Valkyrien Skies
+    - 版本：2.4.8
+  - 机械动力：雷达 Create: Radars
+    - 版本：3.5.2
+  - 瓦尔基里天空：软管连接器 VS Hose Connectors
+    - 版本 0.0.2
+
 # 2.4.6
 - 更新翻译文件
   - 瓦尔基里天空 Valkyrien Skies

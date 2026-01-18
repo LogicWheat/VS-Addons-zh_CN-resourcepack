@@ -1,12 +1,16 @@
 {
-  "block.vsfluidlink.hose_connector": "流体软管连接器",
+  "block.vsfluidlink.hose_connector": "流体软管接口",
   "item.vsfluidlink.hose_connector.tooltip": "让物理结构间的流体传输变得更加简单。\n使用扳手右击以选择第一个连接点，\n然后，右击另一个连接器以建立连接。",
-  "block.vsfluidlink.magnet_hose_connector": "自吸式流体软管连接器",
-  "item.vsfluidlink.magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式连接器。\n通入红石信号可禁用连接。",
-  "block.vsfluidlink.item_hose_connector": "物品软管连接器",
+  "block.vsfluidlink.magnet_hose_connector": "自吸式流体软管接口",
+  "item.vsfluidlink.magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式流体软管接口。\n通入红石信号可禁用连接。",
+  "block.vsfluidlink.item_hose_connector": "物品软管接口",
   "item.vsfluidlink.item_hose_connector.tooltip": "让物理结构间的物品传输变得更加简单。\n使用扳手右击以选择第一个连接点，\n然后，右击另一个连接器以建立连接。\n通入32 RPM以上的旋转力以使其工作。",
-  "block.vsfluidlink.item_magnet_hose_connector": "自吸式物品软管连接器",
-  "item.vsfluidlink.item_magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式连接器。\n通入红石信号可禁用连接。\n通入32 RPM以上的旋转力以使其工作",
+  "block.vsfluidlink.item_magnet_hose_connector": "自吸式物品软管接口",
+  "item.vsfluidlink.item_magnet_hose_connector.tooltip": "可自动连接前方的另一个自吸式物品软管接口。\n通入红石信号可禁用连接。\n通入32 RPM以上的旋转力以使其工作",
+  "block.vsfluidlink.electric_wire_connector": "能量线缆接口",
+  "item.vsfluidlink.electric_wire_connector.tooltip": "让物理结构间的能量传输变得更加简单。\n使用扳手右击以选择第一个连接点，\n然后，右击另一个连接器以建立连接。",
+  "block.vsfluidlink.electric_magnet_wire_connector": "自吸式能量线缆接口",
+  "item.vsfluidlink.electric_magnet_wire_connector.tooltip": "可自动连接前方的另一个自吸式能量线缆接口。\n通入红石信号可禁用连接。",
 
   "creativetab.vsfluidlink_tab": "瓦尔基里天空：软管连接器",
 
