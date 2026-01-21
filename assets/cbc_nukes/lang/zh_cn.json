@@ -1,0 +1,7 @@
+{
+  "block.cbc_nukes.nuke_shell": "核炮弹",
+  "block.createnukecannon.nuke_shell.tooltip.behaviour1": "释放强大的核爆炸，借助核火球彻底毁灭周边的区域，并向周边环境释放辐射污染。",
+  "block.createnukecannon.nuke_shell.tooltip.condition1": "爆炸时",
+  "block.createnukecannon.nuke_shell.tooltip.summary": "“我变成了_死神_，世界的毁灭者。”",
+  "entity.cbc_nukes.nuke_shell": "核炮弹"
+}

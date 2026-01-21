@@ -18,7 +18,7 @@
 - [[百科](https://www.mcmod.cn/class/24170.html)|[MR](https://modrinth.com/mod/valkyrien-logistics)] 瓦尔基里：逻辑仪表（Create: Valkyrien Logistics）
 - [[百科](https://www.mcmod.cn/class/8007.html)|[MR](https://modrinth.com/mod/eureka)] 瓦尔基里天空：尤里卡（Eureka! Ships! for Valkyrien Skies）
 - [百科|[MR](https://modrinth.com/mod/vs-safe-and-sound)] 瓦尔基里：安然无恙（VS Safe and Sound）
-- [百科|[MR](https://modrinth.com/mod/vs-hose-connectors)] 瓦尔基里天空：软管连接器（VS Hose Connectors）
+- [百科|[MR](https://modrinth.com/mod/vs-hose-connectors)] 瓦尔基里天空：软管接口（VS Hose Connectors）
 
 ## 其他模组
 - [[百科](https://www.mcmod.cn/class/18707.html)|[MR](https://modrinth.com/mod/create-big-cannons-advanced-technologies)] 机械动力：火炮-先进技术（Create Big Cannons: Advanced Technologies）
@@ -38,9 +38,9 @@
 - [[百科](https://www.mcmod.cn/class/16400.html)|MR] Mechano
 - [[百科](https://www.mcmod.cn/class/15865.html)|[MR](https://modrinth.com/mod/create-northstar)] 机械动力：北极星 - 重制版（Create: Northstar - Redux）
 - [[百科](https://www.mcmod.cn/class/14360.html)|[MR](https://modrinth.com/mod/numismatics)] 机械动力：金融学（Create: Numismatics）
+- [[百科](https://www.mcmod.cn/class/18758.html)|[MR](https://modrinth.com/mod/cbc-nuclear)] 机械动力：火炮-核炮弹（CBC Nuclear）
 
 # 未来计划
 - Vmod - 帕秋莉手册相关内容
 - Beyond Oxygen - 翻译校对
-- Warium - 本体翻译
-- CBC Nuclear - 本体翻译
+- Warium - 本体翻译（可能不会加入）
