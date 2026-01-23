@@ -1,79 +1,92 @@
+# 2.4.9
+## 更新翻译文件
+- 线缆控制 Drive By Wire
+  - 版本：0.1.0
+## 新增翻译文件
+- 高级备份 Advanced Backups
+  - 版本：3.7.1
+- 铜器时代移植版 Copper Age Backport
+  - 版本：0.1.4
+  - 贡献者：[栀渝](https://center.mcmod.cn/106117/)
+- 敌对神经网络-扩展 Extra Hostile Neural Networks
+  - 版本：2.1.1
+
 # 2.4.8
 ## 更新翻译文件
-  - 瓦尔基里天空：软管接口 VS Hose Connectors
-    - 版本：0.0.7
+- 瓦尔基里天空：软管接口 VS Hose Connectors
+  - 版本：0.0.7
 ## 新增翻译文件
-  - 机械动力：火炮-核炮弹 CBC Nuclear
-    - 版本：2.1.1
+- 机械动力：火炮-核炮弹 CBC Nuclear
+  - 版本：2.1.1
 
 # 2.4.7
 ## 更新翻译文件
-  - 瓦尔基里天空 Valkyrien Skies
-    - 版本：2.4.8
-  - 机械动力：雷达 Create: Radars
-    - 版本：3.5.2
-  - 瓦尔基里天空：软管连接器 VS Hose Connectors
-    - 版本 0.0.2
+- 瓦尔基里天空 Valkyrien Skies
+  - 版本：2.4.8
+- 机械动力：雷达 Create: Radars
+  - 版本：3.5.2
+- 瓦尔基里天空：软管连接器 VS Hose Connectors
+  - 版本 0.0.2
 
 # 2.4.6
 ## 更新翻译文件
-  - 瓦尔基里天空 Valkyrien Skies
-    - 版本：2.4.7
-  - Clockwork
-    - 版本：0.5.4.4
+- 瓦尔基里天空 Valkyrien Skies
+  - 版本：2.4.7
+- Clockwork
+  - 版本：0.5.4.4
 ## 新增翻译文件
-  - 瓦尔基里天空：软管连接器 VS Hose Connectors
-    - 版本：0.0.1
+- 瓦尔基里天空：软管连接器 VS Hose Connectors
+  - 版本：0.0.1
 
 # 2.4.5
 ## 删除翻译文件
-  - AE2 无线终端 Applied Energistics 2 Wireless Terminals
-    - 原因：1.2.2 版本已内置翻译
+- AE2 无线终端 Applied Energistics 2 Wireless Terminals
+  - 原因：1.2.2 版本已内置翻译
 
 # 2.4.4
 ## 更新翻译文件
-  - 瓦尔基里天空 Valkyrien Skies
-    - 版本：2.4.6
-  - Clockwork
-    - 版本：0.5.4.4
+- 瓦尔基里天空 Valkyrien Skies
+  - 版本：2.4.6
+- Clockwork
+  - 版本：0.5.4.4
 ## 新增翻译文件
-  - 瓦尔基里：逻辑仪表 Valkyrien Logistics
-    - 版本：1.1.2
+- 瓦尔基里：逻辑仪表 Valkyrien Logistics
+  - 版本：1.1.2
 
 # 2.4.3
 ## 更新翻译文件
-  - 机械动力：创想附加 Create Crafts & Additions
-    - 版本：1.5.9
-  - 机械动力：油炸 Create: Bitterballen
-    - 版本：1.0.2B
-  - 机械动力：北极星 - 重制版
-    - 版本：0.5.4
-  - Clockwork
-    - 版本：0.5.4.3
+- 机械动力：创想附加 Create Crafts & Additions
+  - 版本：1.5.9
+- 机械动力：油炸 Create: Bitterballen
+  - 版本：1.0.2B
+- 机械动力：北极星 - 重制版
+  - 版本：0.5.4
+- Clockwork
+  - 版本：0.5.4.3
 ## 其他更新
-  - 更新 pack.mcmeta
+- 更新 pack.mcmeta
 
 # 2.4.2
 ## 更新翻译文件
-  - Clockwork
-    - 版本：0.5.4.1
+- Clockwork
+  - 版本：0.5.4.1
 
 # 2.4.1
 ## 更新翻译文件
-  - Clockwork
-    - 版本：0.5.3
-  - 驱动工艺 Trackwork
-    - 版本：1.2.2
-  - 机械动力：推进工程 Create: Propulsion
-    - 版本：0.3.0 (For VS2.4.3)
-  - Vmod
-    - 版本：1.9.0
+- Clockwork
+  - 版本：0.5.3
+- 驱动工艺 Trackwork
+  - 版本：1.2.2
+- 机械动力：推进工程 Create: Propulsion
+  - 版本：0.3.0 (For VS2.4.3)
+- Vmod
+  - 版本：1.9.0
 ## 新增翻译文件
-  - 瓦尔基里天空 Valkyrien Skies
-    - 版本：2.4.4
-  - 机械动力：更多仪表 Create: Extra Gauges
-    - 版本：2.0.7
-    - 贡献者：MoYuan-CN、LogicWheat
+- 瓦尔基里天空 Valkyrien Skies
+  - 版本：2.4.4
+- 机械动力：更多仪表 Create: Extra Gauges
+  - 版本：2.0.7
+  - 贡献者：MoYuan-CN、LogicWheat
 ## 删除翻译文件
-  - TACZ Bullet Proof Enchant Add-on
-    - 原因：1.2 版本已内置翻译
+- TACZ Bullet Proof Enchant Add-on
+  - 原因：1.2 版本已内置翻译

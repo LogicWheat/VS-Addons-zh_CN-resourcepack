@@ -39,6 +39,9 @@
 - [[百科](https://www.mcmod.cn/class/15865.html)|[MR](https://modrinth.com/mod/create-northstar)] 机械动力：北极星 - 重制版（Create: Northstar - Redux）
 - [[百科](https://www.mcmod.cn/class/14360.html)|[MR](https://modrinth.com/mod/numismatics)] 机械动力：金融学（Create: Numismatics）
 - [[百科](https://www.mcmod.cn/class/18758.html)|[MR](https://modrinth.com/mod/cbc-nuclear)] 机械动力：火炮-核炮弹（CBC Nuclear）
+- [[百科](https://www.mcmod.cn/class/10769.html)|[MR](https://modrinth.com/plugin/advanced-backups)] 高级备份 Advanced Backups
+- [[百科](https://www.mcmod.cn/class/23215.html)|[MR](https://modrinth.com/mod/backport-copper-age)] 铜器时代移植版（Copper Age Backport）
+- [[百科](https://www.mcmod.cn/class/22092.html)|MR] 敌对神经网络-扩展（Extra Hostile Neural Networks）
 
 # 未来计划
 - Vmod - 帕秋莉手册相关内容

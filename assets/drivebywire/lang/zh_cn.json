@@ -8,7 +8,7 @@
   "item.drivebywire.wire" : "线缆",
   "item.drivebywire.wire_cutter" : "剪线钳",
   
-  "item.drivebywire.wire_cutter.tooltip.summary" : "连接不良？电缆太多？直接剪断它们！",
+  "item.drivebywire.wire_cutter.tooltip.summary" : "连接不良？线缆太多？直接剪断它们！",
   "block.drivebywire.backup_block.tooltip.summary" : "存入蓝图时会保存物理结构的网络配置，并在物理结构化时加载配置",
   "block.drivebywire.controller_hub.tooltip.summary" : "将无线红石遥控器绑定至此方块，即可远程控制此网络！",
   "block.drivebywire.tweaked_controller_hub.tooltip.summary" : "将高级无线红石遥控器绑定至此方块，即可远程控制此网络！",
