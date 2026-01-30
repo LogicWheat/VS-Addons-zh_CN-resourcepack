@@ -2,6 +2,8 @@
 ## 更新翻译文件
 - 线缆控制 Drive By Wire
   - 版本：0.1.0
+- Clockwork
+  - 版本：0.5.5
 ## 新增翻译文件
 - 高级备份 Advanced Backups
   - 版本：3.7.1
@@ -10,6 +12,10 @@
   - 贡献者：[栀渝](https://center.mcmod.cn/106117/)
 - 敌对神经网络-扩展 Extra Hostile Neural Networks
   - 版本：2.1.1
+- 思索 Ponder
+  - 版本：无限制
+- 飞轮 Flywheel
+  - 版本：无限制
 
 # 2.4.8
 ## 更新翻译文件

@@ -7,20 +7,22 @@
 # 支持的模组
 ## VS本体&附属模组
 - [[百科](https://www.mcmod.cn/class/1528.html)|[MR](https://modrinth.com/mod/create-clockwork)] 瓦尔基里天空（Valkyrien Skies）
-- [百科|[MR](https://modrinth.com/mod/beyond-oxygen)] Beyond Oxygen **（此模组翻译暂未进行校对，谬误较多）**
+- [[百科](https://www.mcmod.cn/class/8007.html)|[MR](https://modrinth.com/mod/eureka)] 瓦尔基里天空：尤里卡（Eureka! Ships! for Valkyrien Skies）
 - [[百科](https://www.mcmod.cn/class/13550.html)|[MR](https://modrinth.com/mod/create-clockwork)] Clockwork
 - [[百科](https://www.mcmod.cn/class/16698.html)|[MR](https://modrinth.com/mod/clockwork-additions)] Clockwork Additions
+- [[百科](https://www.mcmod.cn/class/15499.html)|[MR](https://modrinth.com/mod/trackwork)] 驱动工艺（Trackwork）
 - [[百科](https://www.mcmod.cn/class/13218.html)|[MR](https://modrinth.com/mod/interactive)] 机械动力：交互学（Create: Interactive）
 - [[百科](https://www.mcmod.cn/class/19600.html)|[MR](https://modrinth.com/mod/create-propulsion)] 机械动力：推进工程（Create: Propulsion）
 - [[百科](https://www.mcmod.cn/class/18675.html)|[MR](https://modrinth.com/mod/drive-by-wire)] 线缆控制（Drive-By-Wire）
 - [[百科](https://www.mcmod.cn/class/13891.html)|[MR](https://modrinth.com/mod/vmod)] Vmod
-- [[百科](https://www.mcmod.cn/class/15499.html)|[MR](https://modrinth.com/mod/trackwork)] 驱动工艺（Trackwork）
 - [[百科](https://www.mcmod.cn/class/24170.html)|[MR](https://modrinth.com/mod/valkyrien-logistics)] 瓦尔基里：逻辑仪表（Create: Valkyrien Logistics）
-- [[百科](https://www.mcmod.cn/class/8007.html)|[MR](https://modrinth.com/mod/eureka)] 瓦尔基里天空：尤里卡（Eureka! Ships! for Valkyrien Skies）
+- [百科|[MR](https://modrinth.com/mod/beyond-oxygen)] Beyond Oxygen **（此模组翻译暂未进行校对，谬误较多）**
 - [百科|[MR](https://modrinth.com/mod/vs-safe-and-sound)] 瓦尔基里：安然无恙（VS Safe and Sound）
 - [百科|[MR](https://modrinth.com/mod/vs-hose-connectors)] 瓦尔基里天空：软管接口（VS Hose Connectors）
 
 ## 其他模组
+- [[百科](https://www.mcmod.cn/class/19259.html)|MR] 思索（Ponder）
+- [[百科](https://www.mcmod.cn/class/4178.html)|[MR](https://modrinth.com/mod/flywheel)] 飞轮（Flywheel）
 - [[百科](https://www.mcmod.cn/class/18707.html)|[MR](https://modrinth.com/mod/create-big-cannons-advanced-technologies)] 机械动力：火炮-先进技术（Create Big Cannons: Advanced Technologies）
 - [[百科](https://www.mcmod.cn/class/18773.html)|[MR](https://modrinth.com/mod/cbcmodernwarfare)] 机械动力：火炮-现代战争（CBC: Modern Warfare）
 - [[百科](https://www.mcmod.cn/class/14070.html)|[MR](https://modrinth.com/mod/create-aquatic-ambitions)] 机械动力：瀚海雄心（Create: Aquatic Ambitions）
@@ -35,15 +37,14 @@
 - [[百科](https://www.mcmod.cn/class/19651.html)|[MR](https://modrinth.com/mod/escalated)] 机械动力：自动扶梯（Create: Escalated）
 - [[百科](https://www.mcmod.cn/class/19734.html)|[MR](https://modrinth.com/mod/extra-gauges)] 机械动力：更多仪表（Create: Extra Gauges）
 - [[百科](https://www.mcmod.cn/class/11960.html)|[MR](https://modrinth.com/mod/interiors)] 机械动力：内饰（Create: Interiors）
-- [[百科](https://www.mcmod.cn/class/16400.html)|MR] Mechano
 - [[百科](https://www.mcmod.cn/class/15865.html)|[MR](https://modrinth.com/mod/create-northstar)] 机械动力：北极星 - 重制版（Create: Northstar - Redux）
 - [[百科](https://www.mcmod.cn/class/14360.html)|[MR](https://modrinth.com/mod/numismatics)] 机械动力：金融学（Create: Numismatics）
 - [[百科](https://www.mcmod.cn/class/18758.html)|[MR](https://modrinth.com/mod/cbc-nuclear)] 机械动力：火炮-核炮弹（CBC Nuclear）
 - [[百科](https://www.mcmod.cn/class/10769.html)|[MR](https://modrinth.com/plugin/advanced-backups)] 高级备份 Advanced Backups
 - [[百科](https://www.mcmod.cn/class/23215.html)|[MR](https://modrinth.com/mod/backport-copper-age)] 铜器时代移植版（Copper Age Backport）
 - [[百科](https://www.mcmod.cn/class/22092.html)|MR] 敌对神经网络-扩展（Extra Hostile Neural Networks）
+- [[百科](https://www.mcmod.cn/class/16400.html)|MR] Mechano
 
 # 未来计划
 - Vmod - 帕秋莉手册相关内容
 - Beyond Oxygen - 翻译校对
-- Warium - 本体翻译（可能不会加入）
