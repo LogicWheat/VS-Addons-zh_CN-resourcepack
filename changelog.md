@@ -11,7 +11,7 @@
 - 机械动力：北极星 - 重制版 Create: Northstar - Redux
   - 版本：0.5.4
 - 机械动力：火炮-现代战争 CBC Modern Warfare
-  - 版本：0.0.7as
+  - 版本：0.0.7a
 
 # 2.4.9
 ## 更新翻译文件
