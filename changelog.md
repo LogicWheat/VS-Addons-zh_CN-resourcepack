@@ -1,3 +1,18 @@
+# 2.4.10
+## 更新翻译文件
+- 瓦尔基里天空 Valkyrien Skies
+  - 版本：2.4.10
+- 机械动力：推进工程 Create: Propulsion
+  - 版本：0.3.1
+- 机械动力：雷达 Create: Radars
+  - 版本：0.4
+- Clockwork
+  - 版本：0.5.5
+- 机械动力：北极星 - 重制版 Create: Northstar - Redux
+  - 版本：0.5.4
+- 机械动力：火炮-现代战争 CBC Modern Warfare
+  - 版本：0.0.7as
+
 # 2.4.9
 ## 更新翻译文件
 - 线缆控制 Drive By Wire
@@ -65,7 +80,7 @@
   - 版本：1.5.9
 - 机械动力：油炸 Create: Bitterballen
   - 版本：1.0.2B
-- 机械动力：北极星 - 重制版
+- 机械动力：北极星 - 重制版 Create: Northstar - Redux
   - 版本：0.5.4
 - Clockwork
   - 版本：0.5.4.3
