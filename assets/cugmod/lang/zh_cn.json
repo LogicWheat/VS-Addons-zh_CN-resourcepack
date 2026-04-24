@@ -1,0 +1,9 @@
+{
+    "itemGroup.cugmod": "垃圾场模组",
+    "block.cugmod.thruster": "喷射推进器",
+    "lore.cugmod.thruster.line2": "§7我觉得它跑得相当快，不过别问我它光靠个喷口是怎么工作的",
+    "block.cugmod.wing": "机翼板",
+    "block.cugmod.control_surface": "控制翼面",
+    "block.cugmod.cambered_wing": "弯翼",
+    "block.cugmod.wretched_swine": "可怜的猪"
+}
