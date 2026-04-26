@@ -12,9 +12,6 @@
 - [[百科]()|[MR]()|[CF](https://www.curseforge.com/minecraft/mc-mods/create-propulsion-simulated)] 机械动力：推进工程 - 模拟物理（Create Propulsion: Simulated）
 - [[百科]()|[MR]()|[CF](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics-sable-mass-view)] Sable：质量显示（Sable: Mass view）
 - [[百科]()|[MR]()|[CF](https://www.curseforge.com/minecraft/mc-mods/create-tracks)] 机械动力：履带（Create: Tracks）
-- [[百科]()|[MR]()|[CF]()] 
-- [[百科]()|[MR]()|[CF]()] 
-- [[百科]()|[MR]()|[CF]()] 
 
 ## 瓦尔基里天空 相关模组
 - [[百科](https://www.mcmod.cn/class/1528.html)|[MR](https://modrinth.com/mod/create-clockwork)|[CF](https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)] 瓦尔基里天空（Valkyrien Skies）
