@@ -144,7 +144,7 @@
     "createpropulsion.assembler.selection.too_far": "选区距离过远",
 
     "createpropulsion.stirling_engine.generated_speed": "RPM 输出",
-    "createpropulsion.gui.goggles.stirling_engine.status": "斯特林引擎状态", 
+    "createpropulsion.gui.goggles.stirling_engine.status": "斯特林发动机状态", 
     "createpropulsion.gui.goggles.stirling_engine.status.on": "启用", 
     "createpropulsion.gui.goggles.stirling_engine.status.off": "禁用", 
     "createpropulsion.gui.goggles.stirling_engine.status.no_heat": "无热量", 

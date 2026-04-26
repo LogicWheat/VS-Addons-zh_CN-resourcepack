@@ -3,11 +3,13 @@
 ## 新增翻译文件
 - 机械动力：航空学 Create: Aeronautics
 - Sable
+- 机械动力：推进工程 - 模拟物理 Create Propulsion: Simulated
+- Sable：质量显示 Sable: Mass view
 ## 更新翻译文件
+- 飞轮 Flywheel
+- 思索 Ponder
 - 机械动力：推进工程 Create: Propulsion
-  - 版本：0.3.2
 - Clockwork
-  - 版本：0.5.5.2
 
 # 2.4.10
 ## 更新翻译文件
