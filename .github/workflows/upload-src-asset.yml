@@ -24,9 +24,9 @@ jobs:
       - name: 打包源码并生成压缩包名称
         id: package
         run: |
-          ZIP_NAME="机械动力：航空学&瓦尔基里天空 附属模组汉化资源包-${{ steps.get_version.outputs.tag_name }}.zip"
+          ZIP_NAME="Simulated-Mods-zh_CN-${{ steps.get_version.outputs.tag_name }}.zip"
           echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_OUTPUT
-          zip -r "${ZIP_NAME}" . -x "*.github*"
+          zip -r "${ZIP_NAME}" . -x "*.git*"
 
       - name: 创建 Release 并上传附件
         uses: softprops/action-gh-release@v2
