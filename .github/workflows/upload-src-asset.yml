@@ -1,0 +1,40 @@
+name: 打包源码并上传到 Release
+
+# 触发条件：推送任意标签时触发
+on:
+  push:
+标签:
+      - '*'          # 匹配所有标签
+
+# 权限：允许创建 Release 和上传附件
+permissions:
+  contents: write
+
+jobs:
+  upload-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 获取标签名（即版本号）
+        id: get_version
+        run: |
+          # GITHUB_REF 格式如 refs/tags/1.0.0
+          TAG_NAME=${GITHUB_REF#refs/tags/}
+          echo "tag_name=${TAG_NAME}" >> $GITHUB_OUTPUT
+
+      - name: 打包源码并重命名
+        run: |
+          # 压缩包名称：机械动力：航空学&瓦尔基里天空 附属模组汉化资源包.zip
+          ZIP_NAME="机械动力：航空学&瓦尔基里天空 附属模组汉化资源包-${{ steps.get_version.outputs.tag_name }}.zip"
+          # 将当前目录下所有文件打包，排除 .github 文件夹
+          zip -r "${ZIP_NAME}" . -x "*.github*"
+          echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
+
+      - name: 创建 Release 并上传附件
+        uses: oftprops/action-gh-release@v2
+        with:
+          files: ${{ env.ZIP_NAME }}
+          # 如果 Release 不存在，会自动创建；如果已存在则只上传附件
+          # tag_name 会从上下文自动获取，无需手动指定
