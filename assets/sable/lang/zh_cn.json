@@ -1,0 +1,148 @@
+{
+  "menu.savingSubLevels": "正在保存子世界",
+
+  "commands.sable.helper.missing_sub_level_container": "找不到此世界的子世界容器！",
+  "commands.sable.helper.missing_physics_system": "找不到此世界的子世界物理系统！",
+
+  "commands.sable.sub_level": "子世界",
+  "commands.sable.sub_levels": "%s 个子世界",
+
+  "commands.sable.physics.global": "相对于世界",
+  "commands.sable.physics.local": "相对于自身",
+
+  "commands.sable.spawn.success": "已生成 %s",
+  "commands.sable.spawn.clone.success": "已克隆子世界",
+
+  "commands.sable.physics.impulse.angular.success": "已对 %3$s 的 %2$s 施加 %1$s 角冲量",
+  "commands.sable.physics.impulse.linear.success": "已对 %3$s 的 %2$s 施加 %1$s 线性冲量",
+  "commands.sable.physics.rotation.add.success": "已为 %3$s 的 %2$s 增加 %1$s 旋转",
+  "commands.sable.physics.rotation.set.success": "已将 %1$s 的旋转设为 %2$s",
+  "commands.sable.physics.translation.add.success": "已为 %3$s 的 %2$s 增加 %1$s 平移",
+  "commands.sable.physics.translation.set.success": "已将 %1$s 的平移设为 %2$s",
+
+  "commands.sable.joint.missing_sublevel_target": "无法找到作为关节的子世界",
+  "commands.sable.joint.success": "成功创建关节",
+
+  "commands.sable.sub_level.set_name.success_singular": "已将子世界的名称设为 %s",
+  "commands.sable.sub_level.set_name.success_multiple": "已将 %1$s 个子世界的名称设为 %2$s",
+
+  "commands.sable.sub_level.get_name.success": "子世界的名称为 %s",
+  "commands.sable.sub_level.get_name.failure_unnamed": "子世界没有名称",
+
+  "commands.sable.sub_level.clear_name.success_singular": "已清除子世界的名称",
+  "commands.sable.sub_level.clear_name.success_multiple": "已清除 %s 个子世界的名称",
+
+  "commands.sable.sub_level.teleport_with_orientation.success": "已将 %1$s 传送到 %2$.2f, %3$.2f, %4$.2f，面向 %5$.2f, %6$.2f",
+  "commands.sable.sub_level.teleport.success": "已将 %s 传送到 %.2f, %.2f, %.2f",
+  "commands.sable.sub_level.remove.success": "已移除 %s",
+  "commands.sable.sub_level.assemble.no_blocks": "无法组装子世界，未找到有效方块",
+  "commands.sable.sub_level.assemble.connected.too_many_blocks": "无法组装子世界，方块过多（最大 %s）",
+  "commands.sable.sub_level.shatter.no_blocks": "无法碎片化为子世界，未找到有效方块",
+  "commands.sable.sub_level.shatter.connected.too_many_blocks": "无法碎片化为子世界，方块过多（最大 %s）",
+  "commands.sable.sub_level.shatter.region.success": "已将包含 %s 个方块的区域碎片化为新的子世界",
+  "commands.sable.sub_level.shatter.connected.success": "已将 %s 个相连方块碎片化为新的子世界",
+  "commands.sable.sub_level.shatter.range.success": "已将包含 %s 个方块的范围碎片化为新的子世界",
+  "commands.sable.sub_level.shatter.radius.success": "已将包含 %s 个方块的半径范围碎片化为新的子世界",
+  "commands.sable.sub_level.shatter.sub_level.success": "已将 %1$s 碎片化为 %2$s 个新的子世界",
+  "commands.sable.sub_level.shatter.sub_level.only_single_block": "无法碎片化单方块的子世界",
+  "commands.sable.sub_level.assemble.region.success": "已将区域中的 %s 个方块组装成一个新的子世界",
+  "commands.sable.sub_level.assemble.connected.success": "已将 %s 个相连方块组装成一个新的子世界",
+  "commands.sable.sub_level.assemble.radius.success": "已将半径范围内的 %s 个方块组装成一个新的子世界",
+  "commands.sable.sub_level.assemble.range.success": "已将范围内的 %s 个方块组装成一个新的子世界",
+
+  "commands.sable.physics.paused.success": "已将物理模拟暂停设为 %s",
+  "commands.sable.physics.paused_toggled.success": "已切换物理模拟暂停为 %s",
+
+  "commands.sable.place_schematic.failure": "无法找到蓝图！",
+  "commands.sable.place_schematic.success": "已放置蓝图！",
+
+  "commands.sable.fail.not_inside_sub_level": "位置在子世界区域之外",
+  "commands.sable.fail.no_sub_levels": "未找到子世界",
+  "commands.sable.fail.unmodified": "没有子世界被修改",
+  "commands.sable.fail.no_axis_for_rotation": "没有旋转轴",
+
+  "commands.sable.info.count": "找到 %s 个子世界：",
+  "commands.sable.info.name": "%s：",
+  "commands.sable.info.name.tooltip": "序列化指针：%s",
+  "commands.sable.info.position": "    位置：%.2f %.2f %.2f",
+  "commands.sable.info.orientation": "    朝向：%.2f %.2f %.2f %.2f",
+  "commands.sable.info.linear_velocity": "    线速度：%.2f %.2f %.2f",
+  "commands.sable.info.angular_velocity": "    角速度：%.2f %.2f %.2f",
+  "commands.sable.info.mass": "    质量：%.2f",
+  "commands.sable.info.world_bounds": "    世界边界：%.2f x %.2f x %.2f",
+
+  "commands.data.sub_level.get": "子世界 %2$s 的 %1$s 在乘以倍率 %3$s 后为 %4$s",
+  "commands.data.sub_level.modified": "已修改 %s 的子世界辅助数据",
+  "commands.data.sub_level.query": "%s 具有以下子世界辅助数据：%s",
+
+  "argument.sable.body.selector.all": "全部子世界",
+  "argument.sable.body.selector.nearest": "最近的子世界",
+  "argument.sable.body.selector.random": "随机子世界",
+  "argument.sable.body.selector.viewed": "正在查看的子世界",
+  "argument.sable.body.selector.latest": "最新的子世界",
+  "argument.sable.body.selector.tracking": "追踪的子世界",
+  "argument.sable.body.selector.inside": "所在的子世界",
+  "argument.sable.body.static_world": "静态世界",
+
+  "argument.sable.sub_level.modifier.distance": "到子世界的距离",
+  "argument.sable.sub_level.modifier.x": "x 坐标",
+  "argument.sable.sub_level.modifier.y": "y 坐标",
+  "argument.sable.sub_level.modifier.z": "z 坐标",
+  "argument.sable.sub_level.modifier.dx": "位于 x 与 x+dx 之间的子世界",
+  "argument.sable.sub_level.modifier.dy": "位于 y 与 y+dy 之间的子世界",
+  "argument.sable.sub_level.modifier.dz": "位于 z 与 z+dz 之间的子世界",
+  "argument.sable.sub_level.modifier.vx": "x 速度",
+  "argument.sable.sub_level.modifier.vy": "y 速度",
+  "argument.sable.sub_level.modifier.vz": "z 速度",
+  "argument.sable.sub_level.modifier.speed": "子世界速度",
+  "argument.sable.sub_level.modifier.mass": "子世界重量",
+  "argument.sable.sub_level.modifier.volume": "子世界边界箱体积",
+  "argument.sable.sub_level.modifier.width": "子世界边界箱 X 轴尺寸",
+  "argument.sable.sub_level.modifier.height": "子世界边界箱 Y 轴尺寸",
+  "argument.sable.sub_level.modifier.length": "子世界边界箱 Z 轴尺寸",
+  "argument.sable.sub_level.modifier.limit": "返回的子世界最大数量",
+  "argument.sable.sub_level.modifier.name": "子世界名称",
+  "argument.sable.sub_level.modifier.sort": "按距离排序子世界",
+  "argument.sable.unexpected_end_of_input": "输入意外结束",
+  "argument.sable.single_sub_level_required": "只允许选择一个子世界，但提供的选择器允许选择多个",
+  "argument.sable.sub_level.invalid": "无效的子世界选择器",
+  "argument.sable.sub_level.expected_end_of_modifier": "应以修饰符结束",
+  "argument.sable.sub_level.expected_positive_integer": "应为正整数",
+  "argument.sable.sub_level.expected_positive_decimal": "应为正小数",
+  "argument.sable.sub_level.expected_positive_range": "应为正数",
+  "argument.sable.sub_level.expected_sorting": "应为最近或最远的排序类型",
+
+  "inspector.sable.sub_level_container.title": "子世界容器",
+
+  "attribute.name.player.sub_level_punch_strength": "推动强度",
+  "attribute.name.player.sub_level_punch_cooldown": "推动冷却",
+
+  "options.sable_menu": "子世界设置……  ",
+  "options.physics_steps": "物理步数",
+  "options.physics_steps_template": "%s 步/秒",
+  "options.physics_steps.tooltip": "每秒物理模拟步进的次数。数值越高，性能消耗越大，但精度也越高。",
+
+  "sub_level.toast.checkLog": "查看日志以了解详情",
+  "sub_level.toast.loadFailure": "无法加载位于 %s 的子世界",
+  "sub_level.toast.saveFailure": "无法保存位于 %s 的子世界",
+  "sub_level.toast.physicsFailure": "位于 %s 的子世界出现物理故障",
+  "sub_level.toast.attemptingRecovery": "正在尝试恢复",
+
+  "camera_type.sub_level_view": "进入物理结构视角",
+  "camera_type.sub_level_view_unlocked": "进入未锁定的物理结构视角",
+
+  "force_group.sable.gravity": "重力",
+  "force_group.sable.drag": "阻力",
+  "force_group.sable.levitation": "漂浮力",
+  "force_group.sable.balloon_lift": "气球升力",
+  "force_group.sable.propulsion": "推力",
+  "force_group.sable.lift": "升力",
+  "force_group.sable.magnetic_force": "磁力",
+
+  "schematic.sable.mirror_not_supported": "无法镜像包含子世界的蓝图！",
+
+  "death.attack.fall.from_sublevel": "%1$s 从 %2$s 摔了下来",
+
+  "sable.create.mechanical_arm.points_removed_sublevel_and_range": "%1$s 个选定的交互点由于范围限制或未锚定而被移除。",
+  "sable.create.remove.points_removed_sublevel" : "%1$s 个选定的交互点由于未锚定而被移除。"
+}
