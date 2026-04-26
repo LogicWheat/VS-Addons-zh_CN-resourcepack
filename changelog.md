@@ -5,11 +5,15 @@
 - Sable
 - 机械动力：推进工程 - 模拟物理 Create Propulsion: Simulated
 - Sable：质量显示 Sable: Mass view
+- 机械动力：履带 Create: Tracks
 ## 更新翻译文件
 - 飞轮 Flywheel
 - 思索 Ponder
 - 机械动力：推进工程 Create: Propulsion
 - Clockwork
+## 删除翻译文件
+- 敌对神经网络-扩展 Extra Hostile Neural Networks
+- 机械动力：自动扶梯 Create: Escalated
 
 # 2.4.10
 ## 更新翻译文件

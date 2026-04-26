@@ -31,7 +31,7 @@
 
 ## 同时支持 机械动力：航空学 与 瓦尔基里天空 的模组
 - [[百科](https://www.mcmod.cn/class/18675.html)|[MR](https://modrinth.com/mod/drive-by-wire)|[CF](https://www.curseforge.com/minecraft/mc-mods/drive-by-wire)] 线缆控制（Drive-By-Wire）
-- [[百科](https://www.mcmod.cn/class/24396.html)|[MR](https://modrinth.com/mod/vs-hose-connectors)|[CF](https://www.curseforge.com/minecraft/mc-mods/vs-hose-connectors)] 瓦尔基里/Sable：软管接口（VS / Sable Hose Connectors）
+- [[百科](https://www.mcmod.cn/class/24396.html)|[MR](https://modrinth.com/mod/vs-hose-connectors)|[CF](https://www.curseforge.com/minecraft/mc-mods/vs-hose-connectors)] 瓦尔基里 / Sable：软管接口（VS / Sable Hose Connectors）
 
 ## 机械动力 相关模组
 - [[百科](https://www.mcmod.cn/class/19259.html)|[MR](https://www.bilibili.com/video/BV1GJ411x7h7)|[CF](https://www.bilibili.com/video/BV1GJ411x7h7)] 思索（Ponder）
@@ -49,7 +49,6 @@
 - [[百科](https://www.mcmod.cn/class/14598.html)|[MR](https://modrinth.com/mod/create-deepfried)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-deepfried)] 机械动力：深度油炸（Create: Deepfried）
 - [[百科](https://www.mcmod.cn/class/17880.html)|[MR](https://modrinth.com/mod/create-radars)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-radars)] 机械动力：雷达（Create: Radars）
 - [[百科](https://www.mcmod.cn/class/19650.html)|[MR](https://modrinth.com/mod/create-stock-bridge)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-stock-bridge)] 机械动力：存储桥接器（Create Stock Bridge）
-- [[百科](https://www.mcmod.cn/class/19651.html)|[MR](https://modrinth.com/mod/escalated)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-escalated)] 机械动力：自动扶梯（Create: Escalated）
 - [[百科](https://www.mcmod.cn/class/23656.html)|[MR](https://modrinth.com/mod/create-northstar)|[CF](https://www.curseforge.com/minecraft/mc-mods/northstar-redux)] 机械动力：北极星 - 重制版（Create: Northstar - Redux）
 - [[百科](https://www.mcmod.cn/class/14360.html)|[MR](https://modrinth.com/mod/numismatics)|[CF](https://www.curseforge.com/minecraft/mc-mods/numismatics)] 机械动力：金融学（Create: Numismatics）
 - [[百科](https://www.mcmod.cn/class/18865.html)|[MR](https://modrinth.com/mod/create-security-program)|[CF](https://www.curseforge.com/minecraft/mc-mods/create-security-program)] 机械动力：安全工程（Create: Security Program）
@@ -57,7 +56,6 @@
 ## 其他模组
 - [[百科](https://www.mcmod.cn/class/10769.html)|[MR](https://modrinth.com/plugin/advanced-backups)|[CF](https://www.curseforge.com/minecraft/mc-mods/advanced-backups)] 高级备份 Advanced Backups
 - [[百科](https://www.mcmod.cn/class/23215.html)|[MR](https://modrinth.com/mod/backport-copper-age)|[CF](https://www.curseforge.com/minecraft/mc-mods/copper-age-backport)] 铜器时代移植版（Copper Age Backport）
-- [[百科](https://www.mcmod.cn/class/22092.html)|[MR](https://www.bilibili.com/video/BV1GJ411x7h7)|[CF](https://www.curseforge.com/minecraft/mc-mods/extra-hostile-neural-networks)] 敌对神经网络-扩展（Extra Hostile Neural Networks）
 - [[百科](https://www.mcmod.cn/class/16400.html)|[MR](https://www.bilibili.com/video/BV1GJ411x7h7)|[CF](https://www.bilibili.com/video/BV1GJ411x7h7)] Mechano
 
 # 未来计划
