@@ -3,6 +3,7 @@
 - 机械动力：航空学 Create: Aeronautics
 - Sable [#2](https://github.com/LogicWheat/Simulated-Mods-zh_CN-resourcepack/pull/2)
   - 贡献者：[cewno](https://github.com/cewno)
+- 机械动力：推进工程 - 模拟物理 Create Propulsion: Simulated
 
 # 3.0.0
 *全面添加航空学支持！*
