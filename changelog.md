@@ -1,4 +1,4 @@
-# 3.0.1
+# 3.1.0
 ## 更新翻译文件
 - 机械动力：航空学 Create: Aeronautics
 - Sable [#2](https://github.com/LogicWheat/Simulated-Mods-zh_CN-resourcepack/pull/2)
