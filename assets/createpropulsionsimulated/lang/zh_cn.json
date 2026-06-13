@@ -38,7 +38,7 @@
   "createpropulsion.ponder.shared.liquid_burner.has_thermostat": "液体燃料燃烧器内置恒温器",
   "createpropulsion.gui.goggles.thruster.thrust_output": "推力输出",
   "createpropulsion.tooltip.heat.consumption": "热量消耗",
-  "createpropulsion.gui.goggles.redstone_transmission.internal_shift_number": " {0} / {1}",
+  "createpropulsion.gui.goggles.redstone_transmission.internal_shift_number": "%s / %s",
   "createpropulsion.gui.goggles.thruster.status.wrong_fuel": "燃料错误",
   "createpropulsion.gui.goggles.stirling_engine.status.no_heat": "无热量",
   "block.createpropulsion.tempered_wing": "强化机翼",
