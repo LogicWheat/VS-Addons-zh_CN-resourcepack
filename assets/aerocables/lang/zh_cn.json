@@ -13,6 +13,6 @@
   "item.aerocables.cable": "线缆卷轴",
   "item.aerocables.fe_cable": "能量线缆卷轴",
   "item.aerocables.rs_cable": "RS线缆卷轴",
-  "itemGroup.aerocables.aerocables": "航空线缆",
+  "itemGroup.aerocables.aerocables": "机械动力：航空线缆",
   "tooltip.aerocables.feCableTransferRate": "传输速率：%d FE/t"
 }
