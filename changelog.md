@@ -1,6 +1,13 @@
 # 3.1.0
 ## 新增翻译文件
+- 机械动力：模拟铁路 Create Simurail
 - 机械动力：航空线缆 Create: Aero Cables
+- 模拟仪表 Simulated Gauges
+- 机械动力：航空学 - 可投掷绳索 Create Aeronautics: Throwable Rope Connector
+- Create: Aeroworks
+- Create Aeronautics: Automated Logistics
+- Create Simulated Additions
+- Mekanism: Fluxnautics
 ## 更新翻译文件
 - 机械动力：航空学 Create: Aeronautics
 - Sable [#2](https://github.com/LogicWheat/Simulated-Mods-zh_CN-resourcepack/pull/2)
